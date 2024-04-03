@@ -6,8 +6,9 @@ from tkinter.simpledialog import*
 
 inStr = ""
 swidth, sheight = 500, 500
-txtSize = 20
 distance = 200
+txtSize = 20
+
 
 turtle.title("거북이 글자쓰기")
 turtle.shape("turtle")
